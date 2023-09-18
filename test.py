@@ -8,6 +8,8 @@ class Car :
 
 c1 = Car('Civic','Merah')
 c2 = Car('Brio','Kuning')
+c3 = Car('Ayla', 'Silver')
 
 c1.introduce_self()
 c2.introduce_self()
+c3.introduce_self()
